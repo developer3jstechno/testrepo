@@ -1,0 +1,22 @@
+{
+  "name": "test-repo",
+  "version": "1.0.0",
+  "description": "test for package",
+  "main": "index.js",
+  "scripts": {
+    "test": "node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/developer3jstechno/testrepo.git"
+  },
+  "keywords": [
+    "search"
+  ],
+  "author": "Arshad",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/developer3jstechno/testrepo/issues"
+  },
+  "homepage": "https://github.com/developer3jstechno/testrepo#readme"
+}
